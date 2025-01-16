@@ -1,1 +1,3 @@
-m
+"versionName=3.0"
+"webpageUrl=https://t.me/MSbxv1"
+"dialogTitle=MSTelegram  v3.0"
